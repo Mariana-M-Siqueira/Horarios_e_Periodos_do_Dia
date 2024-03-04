@@ -79,6 +79,7 @@ body{
 .container__div{
     display: flex;
     justify-content: center;
+    align-items: center;
     width: auto;
 }
 
@@ -114,7 +115,7 @@ body{
 }
 
 .conteudo__dia{
-    width: 80%;
+    width: 75%;
     font-size: 25px;
 }
 
