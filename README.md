@@ -1,5 +1,5 @@
 # Horário de Hoje
-<p>&nbsp &nbsp Uma página web com o objetivo de apresentar ao usuário o horário e data de seu sistema, no qual, conforme ao passar dos quatro <b><i>períodos do dia</i></b> (manhã, tarde, noite e madrugada), o layout do site se altera, representando o período respectivo.</p>
+<p>&nbsp &nbsp Uma página web com o objetivo de apresentar ao usuário o horário e data de seu sistema em tempo real, no qual, conforme ao passar dos quatro <b><i>períodos do dia</i></b> (manhã, tarde, noite e madrugada), o layout do site se altera, representando o período respectivo.</p>
 
 ## Objetivo e Aprendizado:
 <p>&nbsp &nbsp Esse projeto foi criado com inspiração nas aulas do canal "Curso em Vídeo", do profº Gustavo Guanabara, com uma sugestão de exercício proporcionado em sua série de vídeoaulas.</p>
